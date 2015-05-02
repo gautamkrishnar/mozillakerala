@@ -1,0 +1,14 @@
+{
+  "name": "Mozilla Kerala",
+  "description": "Mozilla Kerala is a part of the global community of Mozilla Foundation. This is an app to stay updated with the latest news from Mozilla kerala via mozilla kerala facebook page",
+  "launch_path": "/index.html",
+  "icons": {
+"128": "/icon.png"
+  },
+  "developer": {
+    "name": "Gautam Krishna.R",
+    "url": "https://mozillians.org/en-US/u/gkr/"
+  },
+   "orientation": ["portrait"],
+  "default_locale": "en"
+}
