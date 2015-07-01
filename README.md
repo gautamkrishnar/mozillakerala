@@ -19,8 +19,8 @@ Latest : 4.0
 
 ### Platforms
   - [Firefox os]
+  - Android (Available via Firefox Marketplace for tablets and mobile)
   - Windows phone (Development in progress)
-  - Android (Development in progress)
   - Tizen (Future plan)
 
 ### Tech
