@@ -1,7 +1,7 @@
 
 
 
-![](http://gautamkrishnar.me/files/MozKLogo_gkr.png)
+![](https://pbs.twimg.com/profile_images/619786134751588352/lkHUXCF8.png)
 
 # Mozilla Kerala App
 [Mozilla Kerala] is a part of the global community of Mozilla Foundation.
