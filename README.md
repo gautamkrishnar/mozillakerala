@@ -1,8 +1,3 @@
-
-
-
-![](https://pbs.twimg.com/profile_images/619786134751588352/lkHUXCF8.png)
-
 # Mozilla Kerala App
 [Mozilla Kerala] is a part of the global community of Mozilla Foundation.
 This is an app to stay updated about the latest events and news from Mozilla Kerala from the Mozilla Kerala Facebook page and blog. Using this app, you will never miss an update from the Mozilla Kerala community.
